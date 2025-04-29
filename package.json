@@ -5,7 +5,7 @@
     "dev": "vite",
     "build": "node_modules/.bin/vite build",
     "preview": "vite preview",
-    "postinstall": "chmod +x ./build.sh"  // Add this line
+    "postinstall": "chmod +x ./build.sh"
   },
   "dependencies": {
     "react": "^18.2.0",
