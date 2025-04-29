@@ -1,8 +1,2 @@
-
-
-
-cat << 'EOF' > build.sh
-
-npm install -g vite@latest
-
+#!/bin/bash
 vite build
